@@ -115,7 +115,7 @@ body {
     top: 171px;
     left: 82px;
 } .ds4 .face {
-    background: url(https://jaypextk.github.io/ps5gamepadviewer/ps5arrows.png);
+    background: url(https://jaypextk.github.io/ps5gamepadviewer/images/ps5arrows.png);
     position: absolute;
 } .ds4 .face.up, .ds4 .face.down {
     width: 44px;
